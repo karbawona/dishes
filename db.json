@@ -1,0 +1,23 @@
+[
+{
+"name": "pomidorowa",
+"category": "zupa",
+"preparationTime": "1 h"
+},
+{
+"name": "rosol",
+"category": "zupa",
+"preparationTime": "1 h"
+},
+{
+"name": "spaghetti",
+"category": "makaron",
+"preparationTime": "45 min"
+},
+{
+"name": "makaron ze szpinakiem",
+"category": "makaron",
+"preparationTime": "30 min"
+}
+
+]
